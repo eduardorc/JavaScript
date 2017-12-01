@@ -1,5 +1,5 @@
 # JavaScript
 
 ## Aulas da Udemy de JavaScript
-Curso: "Domine o JavaScript"
-Repositório para arquivos de teste.
+Curso: "Domine o JavaScript" <br />
+<p>Repositório para arquivos de teste.</p>
