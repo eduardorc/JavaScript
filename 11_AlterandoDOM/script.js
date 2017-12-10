@@ -1,5 +1,7 @@
+var document;
+
 var paragrafo1 = document.getElementById("paragrafo1");
-paragrafo1.setAttribute("align","left");
+paragrafo1.setAttribute("align" , "left");
 
 var paragrafo2 = document.getElementById("paragrafo2");
 paragrafo2.setAttribute("align","center");
